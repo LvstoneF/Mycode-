@@ -1,8 +1,14 @@
-import re
+from urllib import request
 
-import requests
+if __name__ == "__main__"
+url = 'https://www.cnblogs.com/zlxbky/p/7727895.html'
 
-BinarySearch
+rsp = urlopen(url)
+
+print(type(rsp))
+print(rsp)
+
+
 
 
 
