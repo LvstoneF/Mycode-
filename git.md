@@ -31,3 +31,10 @@
 
 - add 进入 index (暂存区)
 
+# 新建一个本地仓库和GitHub链接
+
+- 在GitHub先新建一个仓库、
+- 在本地建立一个和仓库名一样的文件
+  -  git init 
+  - git remote add origin (仓库的ssr)
+  - git pull --rebase origin master
